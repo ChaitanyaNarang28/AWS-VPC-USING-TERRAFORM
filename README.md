@@ -60,7 +60,5 @@ The infrastructure created includes:
    ```bash
    terraform apply
 
-
-
-
-
+License
+This project is licensed under the MIT License. For more information, see the LICENSE file.
