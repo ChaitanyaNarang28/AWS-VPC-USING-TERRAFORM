@@ -1,6 +1,5 @@
 # Create the README content as a single text file
 
-content = """
 # AWS VPC Using Terraform
 
 Welcome to the **AWS VPC Using Terraform** repository! 🚀
